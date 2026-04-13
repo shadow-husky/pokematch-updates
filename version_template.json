@@ -1,0 +1,12 @@
+{
+  "latest_version_name": "1.0.1",
+  "latest_version_code": 2,
+  "min_supported_version_code": 1,
+  "apk_url": "https://yourdomain.com/pokematch/PokeMatch-1.0.1.apk",
+  "play_store_url": "",
+  "changelog": [
+    "Added the update popup and download button.",
+    "Improved tablet-ready title screen update flow.",
+    "Prepared the project for hosted version checks."
+  ]
+}
